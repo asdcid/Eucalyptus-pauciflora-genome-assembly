@@ -1,0 +1,11 @@
+#!/bin/bash
+
+threads=40
+reads=canu_corr150x.renamed.min35kb.correctedReads.fasta.gz
+out_dir=/data/flye_assembly/flye_assembly_35kb_reads
+
+flye \
+  --nano-corr $reads \
+  --genome-size 500m \
+  --out-dir $out_dir \
+  -t $threads \
