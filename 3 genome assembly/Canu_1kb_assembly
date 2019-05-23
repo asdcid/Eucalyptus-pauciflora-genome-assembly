@@ -9,4 +9,4 @@
   useGrid=false \
   redMemory=24 \
   oeaMemory=24 \
-  -nanopore-corrected /home/ashutosh/nanogenome/canu_corr150x.min1kb.renamed.correctedReads.fasta.gz
+  -nanopore-corrected /home/ashutosh/nanogenome/canu_corr.min1kb.renamed.correctedReads.fasta.gz
