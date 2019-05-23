@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/home/ashutosh/MARVEL/bin/bin/LAfix -x 35000 ep ep.6.las ep.6.fixed.fasta & 
+
+/home/ashutosh/MARVEL/bin/bin/LAfix -x 35000 ep ep.7.las ep.7.fixed.fasta &

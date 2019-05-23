@@ -1,0 +1,127 @@
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.1.gap.las ep_fix.1.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.2.gap.las ep_fix.2.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.3.gap.las ep_fix.3.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.4.gap.las ep_fix.4.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.5.gap.las ep_fix.5.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.6.gap.las ep_fix.6.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.7.gap.las ep_fix.7.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.8.gap.las ep_fix.8.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.9.gap.las ep_fix.9.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.10.gap.las ep_fix.10.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.11.gap.las ep_fix.11.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.12.gap.las ep_fix.12.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.13.gap.las ep_fix.13.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.14.gap.las ep_fix.14.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.15.gap.las ep_fix.15.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.16.gap.las ep_fix.16.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.17.gap.las ep_fix.17.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.18.gap.las ep_fix.18.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.19.gap.las ep_fix.19.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.20.gap.las ep_fix.20.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.21.gap.las ep_fix.21.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.22.gap.las ep_fix.22.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.23.gap.las ep_fix.23.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.24.gap.las ep_fix.24.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.25.gap.las ep_fix.25.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.26.gap.las ep_fix.26.filtered.las 
+
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.27.gap.las ep_fix.27.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.28.gap.las ep_fix.28.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.29.gap.las ep_fix.29.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.30.gap.las ep_fix.30.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.31.gap.las ep_fix.31.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.32.gap.las ep_fix.32.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.33.gap.las ep_fix.33.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.34.gap.las ep_fix.34.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.35.gap.las ep_fix.35.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.36.gap.las ep_fix.36.filtered.las 
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.37.gap.las ep_fix.37.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.38.gap.las ep_fix.38.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.39.gap.las ep_fix.39.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.40.gap.las ep_fix.40.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.41.gap.las ep_fix.41.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.42.gap.las ep_fix.42.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.43.gap.las ep_fix.43.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.44.gap.las ep_fix.44.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.45.gap.las ep_fix.45.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.46.gap.las ep_fix.46.filtered.las
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.47.gap.las ep_fix.47.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.48.gap.las ep_fix.48.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.49.gap.las ep_fix.49.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.50.gap.las ep_fix.50.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.51.gap.las ep_fix.51.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.52.gap.las ep_fix.52.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.53.gap.las ep_fix.53.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.54.gap.las ep_fix.54.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.55.gap.las ep_fix.55.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.56.gap.las ep_fix.56.filtered.las
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.57.gap.las ep_fix.57.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.58.gap.las ep_fix.58.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.59.gap.las ep_fix.59.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.60.gap.las ep_fix.60.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.61.gap.las ep_fix.61.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.62.gap.las ep_fix.62.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.63.gap.las ep_fix.63.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.64.gap.las ep_fix.64.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.65.gap.las ep_fix.65.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.66.gap.las ep_fix.66.filtered.las
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.67.gap.las ep_fix.67.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.68.gap.las ep_fix.68.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.69.gap.las ep_fix.69.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.70.gap.las ep_fix.70.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.71.gap.las ep_fix.71.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.72.gap.las ep_fix.72.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.73.gap.las ep_fix.73.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.74.gap.las ep_fix.74.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.75.gap.las ep_fix.75.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.76.gap.las ep_fix.76.filtered.las
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.77.gap.las ep_fix.77.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.78.gap.las ep_fix.78.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.79.gap.las ep_fix.79.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.80.gap.las ep_fix.80.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.81.gap.las ep_fix.81.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.82.gap.las ep_fix.82.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.83.gap.las ep_fix.83.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.84.gap.las ep_fix.84.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.85.gap.las ep_fix.85.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.86.gap.las ep_fix.86.filtered.las
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.87.gap.las ep_fix.87.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.88.gap.las ep_fix.88.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.89.gap.las ep_fix.89.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.90.gap.las ep_fix.90.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.91.gap.las ep_fix.91.filtered.las 
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.92.gap.las ep_fix.92.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.93.gap.las ep_fix.93.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.94.gap.las ep_fix.94.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.95.gap.las ep_fix.95.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.96.gap.las ep_fix.96.filtered.las
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.97.gap.las ep_fix.97.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.98.gap.las ep_fix.98.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.99.gap.las ep_fix.99.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.100.gap.las ep_fix.100.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.101.gap.las ep_fix.101.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.102.gap.las ep_fix.102.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.103.gap.las ep_fix.103.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.104.gap.las ep_fix.104.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.105.gap.las ep_fix.105.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.106.gap.las ep_fix.106.filtered.las
+
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.107.gap.las ep_fix.107.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.108.gap.las ep_fix.108.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.109.gap.las ep_fix.109.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.110.gap.las ep_fix.110.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.111.gap.las ep_fix.111.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.112.gap.las ep_fix.112.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.113.gap.las ep_fix.113.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.114.gap.las ep_fix.114.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.115.gap.las ep_fix.115.filtered.las
+/home/ashutosh/MARVEL/bin/bin/LAfilter -vp -S 300 -MM 40 -n 300 -r frepeats -t trim1 -o 2000 -u 0 ep_fix ep_fix.116.gap.las ep_fix.116.filtered.las
+

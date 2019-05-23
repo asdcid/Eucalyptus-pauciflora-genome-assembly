@@ -1,0 +1,10 @@
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.101.las d001_0101
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.102.las d001_00102
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.103.las d001_00103
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.104.las d001_00104
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.105.las d001_00105
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.106.las d001_00106
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.107.las d001_00107
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.108.las d001_00108
+/home/ashutosh/MARVEL/bin/bin/LAmerge -v -n 32 ep.db ep.109.las d001_00109
+
