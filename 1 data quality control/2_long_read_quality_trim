@@ -1,0 +1,15 @@
+inputDir='/home/raymond/work/Eucalyptus_pauciflora/genome/bin/raw_read_check/8_branches/long_read/2_adapter_trim/porechop/result/'
+outputDir='result/'
+quality=10
+minLen=1000
+
+for inputFile in $inputDir/*fastq.gz
+do
+    id=$(basename $inputFile)
+    outputFile=$outputDir/$id
+
+    echo $id
+    echo $outputFile
+
+    zcat $inputFile | NanoFilt -q $quality -l $minLen | gzip > $outputFile
+done
