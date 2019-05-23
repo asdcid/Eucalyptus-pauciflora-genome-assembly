@@ -14,10 +14,17 @@ The whole genome sequencing data are available in the Sequence Read Archive with
 - GenomeScope
 - SGA-preqc
 - Jellyfish v1.1.12
+- Canu v1.6, v1.7
+- Flye v2.3.5
+- Marvel v1.0
+- MaSuRCA v3.2.6
+- BLASTN v2.7.1+
+- Blobtools 
+- Ngmlr v0.2.6
+- BUSCO v3.0.2
 - Bowtie2 v2.2.6
 - Blasr v5.1 
 - samtools v1.5
-- Canu v1.6, v1.7
 - Mummer v4.0
 - Racon
 - Pilon v1.22
