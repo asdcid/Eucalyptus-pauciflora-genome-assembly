@@ -1,0 +1,20 @@
+#!/bin/bash
+
+reads='reads.fq'
+outputDir='canu_correct'
+
+canu -correct \
+  -p canu_corr \
+  -d $outputDir \
+  genomeSize= 500m \
+  nanopore-raw  $reads \
+  gridOptionsCORMHAP="-q normal -P xe2 -l walltime=04:00:00" \
+  cormhapThreads=16 \
+  cormhapMemory=32g \
+  gridOptionsCOROVL="-q normal -P xe2 -l walltime=48:00:00" \
+  corovlThreads=16 \
+  corovlMemory=32g \
+  gridOptionsCOR="-q normal -P xe2 -l walltime=48:00:00" \
+  corMinCoverage=8 \
+  corOutCoverage=999 \
+  corMemory=16g
