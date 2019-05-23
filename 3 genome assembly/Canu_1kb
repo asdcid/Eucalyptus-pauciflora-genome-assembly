@@ -1,0 +1,12 @@
+ #!/bin/bash
+ 
+ canu -trim-assemble \
+  maxThreads=96 \
+  -d /home/ashutosh/epauciflora/canu_assembly \
+  -p epauciflora \
+  genomeSize=500m \
+  gnuplot='/home/raymond/devel/gnuplot/install/bin/gnuplot' \
+  useGrid=false \
+  redMemory=24 \
+  oeaMemory=24 \
+  -nanopore-corrected /home/ashutosh/nanogenome/canu_corr150x.min1kb.renamed.correctedReads.fasta.gz
