@@ -7,6 +7,9 @@ The script we used  for Eucalyptus pauciflora genome assembly.
 - Bbduk v37.31
 - Porechop v0.2.1
 - Nanofilt v1.2.0
+- GenomeScope
+- SGA-preqc
+- Jellyfish v1.1.12
 - Bowtie2 v2.2.6
 - Blasr v5.1 
 - samtools v1.5
@@ -15,6 +18,5 @@ The script we used  for Eucalyptus pauciflora genome assembly.
 - Racon
 - Pilon v1.22
 - Qualimap v2.2.1
-- 
 
 ## Procedure
