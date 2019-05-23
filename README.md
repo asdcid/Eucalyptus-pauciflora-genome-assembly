@@ -22,6 +22,6 @@ The whole genome sequencing data are available in the Sequence Read Archive with
 - Racon
 - Pilon v1.22
 - Qualimap v2.2.1
-- python2.7 and python3.6
+- python2.7 or higher
 
 ## Procedure
