@@ -3,10 +3,10 @@
 export PATH="/home/raymond/devel/bbmap/bbmap/":$PATH
 
 inputf='/home/raymond/work/Eucalyptus_pauciflora/genome/data/illumina/SN877_0428_RLanfear_RSB_Eucalyptus_gDNA/'
-outputtrimreads='result_trimq_15_minLen_36/'
-minlen=36
+outputtrimreads='result_trimq_30_minLen_50/'
+minlen=50
 adaptors='/home/raymond/devel/bbmap/bbmap/resources/adapters.fa'
-trimq=15
+trimq=30
 threads=40
 
 
