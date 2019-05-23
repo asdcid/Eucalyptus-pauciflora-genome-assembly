@@ -30,4 +30,6 @@ The whole genome sequencing data are available in the Sequence Read Archive with
 - Pilon v1.22
 - Qualimap v2.2.1
 - Purge Haplotigs
+- Sniffles 
+- CGAL
 - python2.7 or higher
