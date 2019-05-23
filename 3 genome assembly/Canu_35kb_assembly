@@ -2,7 +2,6 @@
 
 canu -trim-assemble \
   maxThreads=96 \
-  -fast \
   -d /home/ashutosh/epauciflora/canu_assembly \
   -p epauciflora \
   genomeSize=500m \
