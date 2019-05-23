@@ -1,7 +1,7 @@
 #!/bin/bash
 
 threads=40
-reads=canu_corr150x.renamed.correctedReads.fasta.gz
+reads=canu_corr150x.min1kb.renamed.correctedReads.fasta.gz
 out_dir=/data/flye_assembly/flye_assembly_1kb_reads
 
 flye \
