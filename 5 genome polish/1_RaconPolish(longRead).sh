@@ -109,7 +109,7 @@ run_racon()
 }
 
 
-inputFile='/home/ashutosh/nanogenome/canu_corr.min35kb.renamed.correctedReads.fasta.gz'
+inputFile='/home/ashutosh/nanogenome/canu_corr.min1kb.renamed.correctedReads.fasta.gz'
 outputDir='polished'
 ref='genome.fa'
 threads=90
