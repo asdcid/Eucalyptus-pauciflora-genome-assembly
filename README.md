@@ -23,12 +23,11 @@ The whole genome sequencing data are available in the Sequence Read Archive with
 - Ngmlr v0.2.6
 - BUSCO v3.0.2
 - Bowtie2 v2.2.6
-- Blasr v5.1 
+- Quast
 - samtools v1.5
-- Mummer v4.0
+- Mummer v4.0beta2
 - Racon
 - Pilon v1.22
 - Qualimap v2.2.1
+- Purge Haplotigs
 - python2.7 or higher
-
-## Procedure
