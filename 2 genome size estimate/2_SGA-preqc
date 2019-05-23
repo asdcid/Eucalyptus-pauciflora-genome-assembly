@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -e
+
+R1='reads/R1.fastq'
+R2='reads/R2.fastq'
+threads=96
+
+
+sga preprocess --pe-mode 1 $R1 $R2 > Epau.fastq
+echo 'finished 1'
+
+sga index -a ropebwt --no-reverse -t $threads Epau.fastq
+echo 'finished 2'
+
+sga preqc -t $threads Epau.fastq > Epau.preqc
+echo 'finished 3'
