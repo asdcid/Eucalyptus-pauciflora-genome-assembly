@@ -1,0 +1,27 @@
+# The genomeScope is running online, but it requires a kmer histo file. This is the code to get the kmer histo using Jellyfish
+
+#!/bin/bash
+
+set -e
+
+
+inputFile='read.fq'
+outputDir='result/'
+threads=50
+kmer=32
+input=$(basename ${inputFile%%.fq})
+outputName=$outputDir/${input}_kmer${kmer}
+echo $inputFile
+echo $outputName
+jellyfish count \
+    -C \
+    -m $kmer \
+    -s 1000000000 \
+    -t $threads \
+    $inputFile \
+    -o ${outputName}.jf
+
+jellyfish histo \
+     -t $threads \
+     ${outputName}.jf > ${outputName}.histo
+rm ${outputName}.jf
