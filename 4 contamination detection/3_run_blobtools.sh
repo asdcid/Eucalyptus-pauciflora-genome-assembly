@@ -3,7 +3,7 @@
 inputGenome='genome.fa'
 outdir="/data/snowgum_assembly/blobtools/"
 taxid="/data/db/taxid"
-coverage_file ="mapping.sort.bam"
+coverage_file ="genome.sort.bam"
 hit_file = "last.taxified.out"
 
 
