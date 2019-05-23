@@ -6,7 +6,7 @@ set -e
 ###################################################################################
 speciesName='Epau'
 reference='genome.polish.purge.fa'
-#the real threads that RepeatModeler used is ${threads} * 4
+#use 4 per one threads, if set it to 10, it will use 40
 threads=10
 ###################################################################################
 
