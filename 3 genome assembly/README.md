@@ -1,0 +1,1 @@
+We separated our long-read and short-read data into assembly dataset (~90% of reads) and validation dataset (~10% of reads) by randomly assigning the trimmed and filtered reads into the two datasets.
