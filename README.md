@@ -32,4 +32,10 @@ The whole genome sequencing data are available in the Sequence Read Archive with
 - Purge Haplotigs
 - Sniffles 
 - CGAL
+- LTR_retriever
+- GenomeTools
+- ltr_finder
+- RepeatMasker v4.0.7
+- RepeatModeler v1.0.11
 - python2.7 or higher
+
