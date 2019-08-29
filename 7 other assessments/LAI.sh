@@ -66,13 +66,4 @@ LTR_retriever \
     -threads $threads
 
 
-mv $ref.pass.list $2
-mv $ref.pass.list.gff3 $2
-mv $ref.LTRlib.fa $2
-mv $ref.nmtf.LTRlib.fa $2
-mv $ref.LTRlib.redundant.fa $2
-mv $ref.out.gff $2
-mv $ref.out.fam.size.list $2
-mv $ref.out.superfam.size.list $2
-mv $ref.out.LTR.distribution.txt $2
-mv $ref.out.LAI $2
+
