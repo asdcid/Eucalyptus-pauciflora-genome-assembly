@@ -6,7 +6,7 @@ ref='genome.polish.purge.fa'
 in1='shortRead.validation.R1.fq'
 in2='shortRead.validation.R2.fq'
 threads=$4
-samt='genome.polish.purge.sam'
+sam='genome.polish.purge.sam'
 
 bowtie2-build $ref $ref
 bowtie2 \
