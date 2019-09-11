@@ -1,10 +1,12 @@
 # Eucalyptus-pauciflora-genome-assembly
 
-The scripts we used  for assembling and comparing of _de novo_ assemblies project. 
+The scripts we used for assembling and comparing of _de novo_ assemblies project. 
 
 The _E. pauciflora_ genome project was deposited at NCBI under BioProject number PRJNA450887. 
 
 The whole genome sequencing data are available in the Sequence Read Archive with accession number SRR7153044-SRR7153116.
+
+The pipeline for different assemblies assessment is available in https://github.com/asdcid/Genome_Assembly_Assessment
 
 ## Requirements
 - Fastqc
